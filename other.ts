@@ -1,3 +1,3 @@
-import * as z from "./external.ts";
-export * from "./external.ts";
-export { z };
+export * from "./helpers/parseUtil.ts";
+export * from "./types.ts";
+export * from "./ZodError.ts";
